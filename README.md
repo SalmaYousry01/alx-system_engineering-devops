@@ -1,3 +1,2 @@
-#!/bin/bash
-description
+0-current_working_directory prints pwd
 
